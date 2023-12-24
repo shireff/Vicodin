@@ -1,0 +1,164 @@
+@media screen and (max-width: 1024px) {
+  .homeSec .carousel-caption {
+    top: 28% !important;
+  }
+
+  .homeSec h1 {
+    font-size: 35px !important;
+  }
+  .homeSec p {
+    width: 25ch;
+  }
+
+  .hot h2 {
+    font-size: 30px;
+  }
+  .hot p {
+    font-size: 14px;
+  }
+  .web-title {
+    font-size: 30px;
+  }
+  .hot .btn-main {
+    padding: 17px 20px;
+  }
+  .hot {
+    height: 81vh;
+  }
+  .facial ul span {
+    padding: 13px 0 0 15px;
+  }
+
+  .opac {
+    display: none;
+  }
+}
+@media screen and (max-width: 992px) {
+  header .header-top {
+    display: none;
+  }
+  .homeSec .carousel-caption {
+    display: inline !important;
+    top: 20% !important;
+  }
+  .homeSec img {
+    object-fit: cover;
+  }
+  .homeSec h1 {
+    font-size: 35px !important;
+  }
+  .homeSec p {
+    width: 25ch;
+  }
+  .icons-slide {
+    display: none;
+  }
+  .hot h2 {
+    font-size: 30px;
+  }
+  .hot p {
+    font-size: 14px;
+  }
+  .web-title {
+    font-size: 30px;
+  }
+  .hot .btn-main {
+    padding: 17px 20px;
+  }
+  .hot {
+    height: 81vh;
+  }
+  .facial ul span {
+    padding: 13px 0 0 15px;
+  }
+  .lablog {
+    display: none;
+  }
+  .opac {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  header .header-top {
+    display: none;
+  }
+  .homeSec .carousel-caption {
+    display: inline !important;
+    top: 20% !important;
+  }
+  .homeSec img {
+    object-fit: cover;
+  }
+  .homeSec h1 {
+    font-size: 35px !important;
+  }
+  .homeSec p {
+    width: 25ch;
+  }
+  .icons-slide {
+    display: none;
+  }
+  .hot h2 {
+    font-size: 30px;
+  }
+  .hot p {
+    font-size: 14px;
+  }
+  .web-title {
+    font-size: 30px;
+  }
+  .hot .btn-main {
+    padding: 17px 20px;
+  }
+  .hot {
+    height: 81vh;
+  }
+  .facial ul span {
+    padding: 13px 0 0 15px;
+  }
+}
+@media screen and (max-width: 600px) {
+  header .header-top {
+    display: none;
+  }
+  .homeSec .carousel-caption {
+    display: inline !important;
+    top: 20% !important;
+  }
+  .homeSec img {
+    object-fit: cover;
+  }
+  .homeSec h1 {
+    font-size: 35px !important;
+  }
+  .homeSec p {
+    width: 25ch;
+  }
+  .icons-slide {
+    display: none;
+  }
+  .hot h2 {
+    font-size: 30px;
+  }
+  .hot p {
+    font-size: 14px;
+  }
+  .web-title {
+    font-size: 20px;
+  }
+  .hot .btn-main {
+    padding: 17px 20px;
+  }
+  .hot {
+    height: 81vh;
+  }
+  .facial ul span {
+    padding: 13px 0 0 15px;
+  }
+  .lablog {
+    display: none;
+  }
+  .opac {
+    display: none;
+  }
+}

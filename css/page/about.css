@@ -1,0 +1,105 @@
+.core .infoCard {
+  border: 1px solid var(--border-color-8);
+  padding: 40px 30px 35px;
+  position: relative;
+  transition: all 0.5s;
+}
+.core .infoCard:hover {
+  box-shadow: var(--box-shadow-1);
+}
+.core .infoCard::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 4px;
+  background-color: var(--color-secondry);
+  transition: all 0.8s;
+}
+.core .infoCard:hover::before {
+  width: 100%;
+}
+
+.infoCard img {
+  max-width: 60px;
+}
+
+.core .infoCard h3 a {
+  font-family: JosefinSansBold;
+  font-size: 24px;
+  color: var(--color-primary);
+}
+.core .infoCard h3 a:hover {
+  color: var(--color-secondry);
+}
+.numbe {
+  background-color: var(--section-bg-1);
+}
+.doctor .teamCard img {
+  border-radius: 50%;
+  max-width: 160px;
+  margin: 30px auto !important;
+}
+.doctor .teamCard {
+  border-radius: 0;
+  width: 250px;
+}
+.doctor .teamCard:hover {
+  background-color: var(--color-primary) !important;
+}
+
+.doctor .teamCard h6 {
+  color: var(--color-secondry);
+  text-transform: uppercase;
+  margin-bottom: 12px !important;
+}
+.doctor .teamCard h4 {
+  font-size: 20px;
+  transition: all 0.3s;
+}
+.doctor .teamCard:hover h4 {
+  color: white;
+}
+.client {
+  background-color: var(--section-bg-1);
+  padding: 70px 40px;
+}
+.client .clientCard {
+  background-color: white !important;
+  padding: 30px;
+  box-shadow: var(--box-shadow-4);
+}
+.client .clientCard img {
+  width: 120px;
+  height: 120px;
+}
+.client .clientCard p {
+  font-size: 15px;
+  color: #071c1f;
+}
+.client .clientCard h4 {
+  font-size: 20px;
+}
+.client .clientCard h6 {
+  color: var(--color-secondry);
+}
+.choose {
+  background-color: var(--section-bg-1);
+}
+.choose .infoCard {
+  background-color: white !important;
+  padding: 25px;
+  box-shadow: var(--box-shadow-4);
+}
+
+.choose .infoCard h3 {
+  margin: 15px 0 0 15px;
+  font-size: 22px;
+}
+.choose .infoCard h3 a{
+  color: var(--color-primary);
+}
+.choose .infoCard h3:hover a{
+  color: var(--color-secondry);
+}

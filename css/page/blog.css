@@ -1,0 +1,23 @@
+.blogg .blogLas .date {
+  width: 200px;
+}
+.blogg .blogCard {
+  box-shadow: var(--box-shadow-1);
+}
+.blogg .blogLas {
+  padding-top: 15px;
+  border-top: 1px solid var(--border-color-1);
+}
+.left-side .lecard {
+  padding: 30px;
+  border: 1px solid var(--border-color-1);
+}
+.left-side .btn-main2 {
+  text-align: center;
+  color: white !important;
+  margin-top: 0;
+  padding: 15px 20px;
+}
+.left-side .btn-main2 i {
+  color: white;
+}

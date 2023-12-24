@@ -1,0 +1,112 @@
+{
+  "shop": [
+    {
+      "product_id": 1,
+      "image_url": "./img/Shop-1.jpg",
+      "title": "M. n/s product title",
+      "price": 110,
+      "price_before": 130,
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 2,
+      "image_url": "./img/Shop-2.jpg",
+      "title": "A. n/s product title",
+      "price": 80,
+      "price_before": "",
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 3,
+      "image_url": "./img/Shop-3.jpg",
+      "title": "B. n product",
+      "price": 70,
+      "price_before": 85,
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 4,
+      "image_url": "./img/Shop-4.jpg",
+      "title": "D. s o product",
+      "price": 33,
+      "price_before": 39,
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 5,
+      "image_url": "./img/Shop-5.jpg",
+      "title": "E. s product",
+      "price": 39,
+      "price_before": "",
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 6,
+      "image_url": "./img/Shop-6.jpg",
+      "title": "F. v w s product",
+      "price": 55,
+      "price_before": 75,
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 7,
+      "image_url": "./img/Shop-7.jpg",
+      "title": "G. a product",
+      "price": 33,
+      "price_before": "",
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 8,
+      "image_url": "./img/Shop-8.jpg",
+      "title": "H. c d product",
+      "price": 39,
+      "price_before": 60,
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 9,
+      "image_url": "./img/Shop-9.jpg",
+      "title": "I. w s c product",
+      "price": 79,
+      "price_before": "",
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 10,
+      "image_url": "./img/Shop-10.jpg",
+      "title": "J. w s c product",
+      "price": 19,
+      "price_before": 21,
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 11,
+      "image_url": "./img/Shop-11.jpg",
+      "title": "K. w s c product",
+      "price": 39,
+      "price_before": "",
+      "new_tag": "new",
+      "sale_amount": "15%"
+    },
+    {
+      "product_id": 12,
+      "image_url": "./img/Shop-12.jpg",
+      "title": "L. n/s product title",
+      "price": 99,
+      "price_before": 111,
+      "new_tag": "new",
+      "sale_amount": "15%"
+    }
+  ]
+}

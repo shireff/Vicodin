@@ -1,0 +1,81 @@
+.details #main-slider li {
+  height: 500px !important;
+}
+.details h4 {
+  margin: 15px 0 !important;
+  font-size: 24px;
+}
+.details h3 {
+  font-size: 50px;
+  color: var(--color-secondry);
+  font-family: NunitoSansBold;
+}
+.details .ful {
+  padding: 15px 0;
+  border-top: 1px solid var(--border-color-1);
+  border-bottom: 1px solid var(--border-color-1);
+}
+.details .ful li {
+  font-family: NunitoSansBold;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+.details .ful span {
+  padding-left: 35px;
+}
+.details .ful .gree {
+  color: var(--color-secondry);
+  padding-left: 15px;
+}
+.details .btn-main {
+  padding: 15px 25px;
+}
+.details .btn-main i {
+  color: white;
+}
+.details .btn-main:hover i {
+  color: var(--color-primary);
+}
+.details .btn-main2 {
+  background-color: var(--color-primary);
+}
+.details .ullinks,
+.details .ulshare {
+  padding-top: 5px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid var(--border-color-1);
+}
+.details .ullinks a,
+.details .ulshare a {
+  margin-right: 10px;
+  color: var(--color-primary);
+}
+.details .ullinks a:hover,
+.details .ullinks a:hover i,
+.details .ulshare a:hover,
+.details .ulshare a:hover i {
+  color: var(--color-secondry);
+}
+.details .pay h5 {
+  font-size: 18px;
+  margin-bottom: 8px !important;
+}
+.details .pay img {
+  max-width: 450px;
+}
+.comm .nav-tabs .nav-link {
+  color: var(--color-primary);
+  font-family: JosefinSansMedium;
+}
+.comm .nav-tabs .nav-link.active {
+  color: var(--color-secondry);
+  border: none;
+  border-bottom: 1px solid var(--color-secondry);
+}
+.comm .tab-content {
+  margin-top: 25px;
+}
+.comm .tab-content li {
+  list-style: inside;
+  padding-left: 25px !important;
+}

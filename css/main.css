@@ -1,0 +1,34 @@
+/* Base Folder */
+@import url(./base/base.css);
+/* Component Folder */
+@import url(./component/btn.css);
+@import url(./component/home.css);
+@import url(./component/shopcards.css);
+@import url(./component/lightBox.css);
+
+/* Layout Folder */
+
+@import url(./layout/footer.css);
+@import url(./layout/header.css);
+/* Responsive Folder */
+@import url(./responsive/responsive.css);
+
+/* Page Folder */
+
+@import url(./page/homeP.css);
+@import url(./page/contact.css);
+@import url(./page/cart.css);
+
+@import url(./page/shop.css);
+@import url(./page/pdetails.css);
+@import url(./page/blog.css);
+@import url(./page/about.css);
+@import url(./page/login.css);
+
+/* Vendors Folder */
+
+@import url(./vendors/all.css);
+@import url(./vendors/bootstrap.min.css);
+@import url(./vendors/fontawesome.min.css);
+@import url(./vendors/animate.css);
+@import url(./vendors/splide.min.css);

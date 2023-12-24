@@ -1,0 +1,29 @@
+@font-face {
+  font-family: JosefinSansBold;
+  src: url(../fonts/JosefinSans-Bold.ttf);
+}
+@font-face {
+  font-family: JosefinSansMedium;
+  src: url(../fonts/JosefinSans-Medium.ttf);
+}
+@font-face {
+  font-family: JosefinSansRegular;
+  src: url(../fonts/JosefinSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: NunitoSansBold;
+  src: url(../fonts/NunitoSans_10pt-Bold.ttf);
+}
+@font-face {
+  font-family: NunitoSansMedium;
+  src: url(../fonts/NunitoSans_10pt-Medium.ttf);
+}
+@font-face {
+  font-family: NunitoSansRegular;
+  src: url(../fonts/NunitoSans_10pt-Regular.ttf);
+}
+@font-face {
+  font-family: NunitoSansLight;
+  src: url(../fonts/NunitoSans_10pt-Light.ttf);
+}

@@ -1,0 +1,13 @@
+.header {
+  position: relative;
+}
+.carTable .cart-option {
+  margin: 15px 0;
+}
+.carTable img {
+  width: 200px;
+  height: 200px;
+}
+.carTable td{
+  width: 250px;
+}

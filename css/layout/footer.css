@@ -1,0 +1,65 @@
+footer {
+  background-color: var(--section-bg-1);
+}
+footer .flogo {
+  max-width: 160px;
+  margin-bottom: 15px;
+}
+footer h3 {
+  margin-bottom: 25px !important;
+  font-size: 22px;
+  font-family: NunitoSansBold;
+}
+footer p {
+  margin-bottom: 20px !important;
+}
+footer li {
+  margin-bottom: 12px;
+  color: var(--color-primary);
+  transition: all 0.5s;
+}
+
+footer a {
+  color: var(--color-primary);
+}
+footer i {
+  margin-right: 15px;
+}
+footer .lisst li a:hover {
+  padding-left: 15px;
+}
+footer .lisst li a::before {
+  transition: all 0.5s;
+}
+footer .lisst li a:hover::before {
+  content: "//";
+  margin-right: 15px;
+}
+footer #mailicon i {
+  margin-top: 0;
+  margin-right: 0;
+  padding: 13px 20px;
+  font-size: 22px;
+  color: white;
+  background-color: var(--color-secondry);
+}
+footer #mailicon:hover i {
+  background-color: var(--color-primary);
+}
+footer .mail {
+  border-radius: 0;
+  border: 2px solid;
+  border-color: var(--border-color-9);
+}
+
+.footerend {
+  background-color: #071c1f;
+  color: white;
+  padding: 25px 0;
+}
+.footerend li a {
+  color: white;margin-right: 15px;
+}
+.footerend li a:hover{
+  color: var(--color-secondry);
+}

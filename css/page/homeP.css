@@ -1,0 +1,205 @@
+.icons-slide i {
+  font-size: 30px;
+  margin: 15px;
+  color: #8cb2b2;
+  transition: all 0.5s;
+}
+.icons-slide .splide__pagination {
+  display: none;
+}
+.icons-slide span {
+  color: var(--color-primary);
+  font-family: JosefinSansBold;
+  text-transform: capitalize;
+  transition: all 0.5s;
+}
+.icons-slide li:hover i,
+.icons-slide li:hover span {
+  color: var(--color-secondry);
+}
+.faith h2 {
+  font-family: JosefinSansBold;
+  font-size: 40px;
+  line-height: 1.3;
+  margin-bottom: 15px !important;
+}
+.faith p {
+  color: var(--color-primary);
+  max-width: 500px;
+}
+.faith ul {
+  border-bottom: 1px solid var(--border-color-1);
+  margin: 25px 0;
+  padding-bottom: 10px;
+}
+.faith li {
+  color: var(--color-primary);
+  font-family: NunitoSansBold;
+}
+.faith li i {
+  background-color: var(--section-bg-1);
+  color: var(--color-secondry);
+  padding: 5px;
+  margin-right: 22px;
+  margin-bottom: 15px;
+}
+.faith .innercard img {
+  width: 60px;
+  border-radius: 50%;
+}
+.faith .innercard .card-body {
+  padding: 8px 0 0 14px;
+  border-right: 2px solid var(--border-color-1);
+}
+.faith .innercard .card-body h4 {
+  font-size: 20px;
+}
+.faith .innercard .card-body p {
+  font-size: 14px;
+}
+.reser {
+  background-color: var(--section-bg-1);
+  padding: 12px;
+}
+.reser .icon i {
+  font-size: 25px;
+  color: var(--color-secondry);
+  padding: 15px 8px 0 0;
+}
+.reser .text {
+  margin-left: 12px;
+}
+.reser .text p {
+  font-size: 14px;
+  color: var(--color-primary);
+  margin-bottom: 0 !important;
+}
+.reser span {
+  font-family: NunitoSansBold;
+}
+.focuus img:hover {
+  transform: scale(1.1);
+  overflow: hidden;
+}
+.focuus .feimg {
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.hot {
+  background-image: url(../../img/252.jpg);
+  height: 70vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hot h3 {
+  color: var(--color-secondry);
+  font-size: 30px;
+}
+.hot h2 {
+  font-size: 40px;
+  margin: 15px 0 !important;
+}
+.lin {
+  padding-top: 30px;
+  color: var(--color-secondry);
+  padding-left: 25px;
+  text-decoration: underline !important;
+}
+.hot .btn-main {
+  text-transform: uppercase;
+  padding: 17px 40px;
+}
+.facial {
+  background-color: var(--section-bg-1);
+}
+.facial h3 {
+  color: var(--color-secondry);
+  font-size: 16px;
+  font-family: NunitoSansBold;
+}
+.facial h2 {
+  font-size: 40px;
+  line-height: 1.3;
+  margin: 20px 0 !important;
+}
+.facial ul img {
+  width: 50px;
+  margin-left: 10px;
+}
+.facial ul span {
+  padding: 13px 0 0 25px;
+}
+.facial .lin {
+  padding: 0;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.web-title {
+  font-size: 44px;
+}
+.info {
+  background-color: var(--section-bg-1);
+}
+.info img {
+  width: 50px;
+  margin: 15px auto;
+}
+.blogCard .blogImg {
+  overflow: hidden;
+}
+.blogCard:hover img {
+  transform: scale(1.1);
+}
+.blogCard {
+  padding: 30px;
+}
+.blogCard .card-body {
+  padding: 25px;
+}
+.blogCard .card-body p a {
+  color: var(--color-primary);
+  font-family: NunitoSansBold;
+  font-size: 14px;
+}
+.blogCard .card-body p i {
+  color: var(--color-secondry);
+  padding-right: 9px;
+}
+.blogCard .card-body p:hover a {
+  color: var(--color-secondry);
+}
+.blogCard .card-body h4 a {
+  font-size: 22px;
+  color: var(--color-primary);
+}
+.blogCard .card-body h4 {
+  margin-bottom: 15px !important;
+}
+.blogCard .card-body h4:hover a {
+  color: var(--color-secondry);
+}
+.blogCard .blogLas {
+  font-family: NunitoSansBold;
+  font-size: 14px;
+}
+.blogCard .blogLas a {
+  color: var(--color-secondry);
+}
+.opac .halfop {
+  opacity: 0.5;
+}
+.opac .moreop {
+  opacity: 0.7;
+}
+.opac img {
+  transition: all 0.5s;
+  max-width: 163px;
+  margin-right: 25px;
+  height: 85px;
+}
+.opac img:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}

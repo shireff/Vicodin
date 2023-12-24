@@ -1,0 +1,18 @@
+.contactt .infoCard {
+  border: 1px solid var(--border-color-1) !important;
+  padding: 60px 30px;
+}
+.contactt .infoCard h3 {
+  font-size: 24px;
+  margin-bottom: 8px !important;
+}
+.forrm {
+  margin-bottom: -60px;
+  position: relative;
+  z-index: 5;
+}
+.forrm .forrrm {
+  background-color: white;
+  padding: 50px;
+  box-shadow: var(--box-shadow-1);
+}

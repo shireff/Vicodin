@@ -1,0 +1,71 @@
+.homeSec img{
+  height: 100vh;
+  position: static;
+}
+.homeSec .ca1 .carousel-caption {
+  bottom: 0;
+  top: 35%;
+  text-align: start;
+}
+.homeSec .ca2 .carousel-caption {
+  bottom: 0;
+  top: 35%;
+}
+.homeSec .ca3 .carousel-caption {
+  bottom: 0;
+  top: 35%;
+  text-align: end;
+}
+.homeSec .hometext {
+  z-index: 5;
+  position: relative;
+}
+.homeSec .hometext h6 {
+  color: var(--color-secondry);
+  margin-bottom: 20px !important;
+}
+.homeSec .hometext h1 {
+  font-family: JosefinSansBold;
+  color: var(--color-primary);
+  font-size: 72px;
+  line-height: 1;
+  margin-bottom: 20px !important;
+}
+.hometext p {
+  color: var(--color-primary);
+
+  font-family: NunitoSansRegular;
+
+  font-size: 16px;
+  margin-bottom: 15px !important;
+  width: 50ch;
+}
+.homeSec .ca1 p {
+  padding-left: 25px;
+  border-left: 1px solid var(--border-color-2);
+}
+.homeSec .ca3 p {
+  padding-right: 25px;
+  border-right: 1px solid var(--border-color-2);
+  margin-right: 0;
+  width: 67ch;
+}
+.homeSec .ca2 p {
+  width: 55ch;
+  margin: 0 auto;
+}
+.hometext .btn-main {
+  padding: 12px 35px;
+  margin-top: 40px !important;
+  display: inline-block;
+}
+.hometext .btnn:hover {
+  background-color: black;
+}
+.whome {
+  background-image: url(../../img/14.webp);
+  height: 30vh;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
